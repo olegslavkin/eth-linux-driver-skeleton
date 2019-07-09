@@ -1,0 +1,9 @@
+*.o
+*.ko
+.tmp_versions
+.eth-skel*
+*.mod.*
+.clang
+Module.symvers
+module.order
+tags
